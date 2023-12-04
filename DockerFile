@@ -19,4 +19,4 @@ RUN npm install
 
 # RUN as docker user
 USER docker
-CMD node ${APPNAME}
+CMD node ${APPNAME}  
